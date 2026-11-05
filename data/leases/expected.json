@@ -1,0 +1,62 @@
+[
+  {
+    "file": "lease_01.pdf",
+    "landlord": "Velmora Estates SIA",
+    "tenant": "Nerivox Studio SIA",
+    "start_date": "2026-03-01",
+    "end_date": "2029-02-28",
+    "monthly_rent": 4200,
+    "currency": "EUR",
+    "indexation_percent": 3
+  },
+  {
+    "file": "lease_02.pdf",
+    "landlord": "Orvessa Property AS",
+    "tenant": "Talviko Systems AS",
+    "start_date": "2026-03-01",
+    "end_date": "2028-02-28",
+    "monthly_rent": 28500,
+    "currency": "NOK",
+    "indexation_percent": 2.5
+  },
+  {
+    "file": "lease_03.pdf",
+    "landlord": "Keldriva Offices Ltd",
+    "tenant": "Zenvora Analytics Ltd",
+    "start_date": "2026-04-15",
+    "end_date": "2030-04-14",
+    "monthly_rent": 3250,
+    "currency": "GBP",
+    "indexation_percent": 2
+  },
+  {
+    "file": "lease_04.pdf",
+    "landlord": "Pelmora Buildings SIA",
+    "tenant": "Quendivo Services SIA",
+    "start_date": "2026-06-01",
+    "end_date": "2027-05-31",
+    "monthly_rent": 2750,
+    "currency": "EUR",
+    "indexation_percent": null
+  },
+  {
+    "file": "lease_05.pdf",
+    "landlord": "Varnello Workspace Ltd",
+    "tenant": "Dravique Design Ltd",
+    "start_date": "2026-09-01",
+    "end_date": "2029-08-31",
+    "monthly_rent": 4000,
+    "currency": "EUR",
+    "indexation_percent": 4
+  },
+  {
+    "file": "lease_06.pdf",
+    "landlord": "Elvarune Property AS",
+    "tenant": "Koventri Solutions AS",
+    "start_date": "2026-11-01",
+    "end_date": "2031-10-31",
+    "monthly_rent": 46800,
+    "currency": "SEK",
+    "indexation_percent": 2.75
+  }
+]
